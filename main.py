@@ -10,3 +10,4 @@ for i in range(parola_uzunlugu):
   parola +=  random.choice(karakterler)
 
 print(parola)
+#yorum
